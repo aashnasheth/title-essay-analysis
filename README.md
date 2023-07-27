@@ -7,4 +7,7 @@ Official Repository: https://github.com/LibraryOfCongress/data-exploration/tree/
 NEH Blog Post: https://www.neh.gov/blog/chronicling-americas-newspaper-biographies-data
 
 ## Setting Up
-To run this Python notebook, simply clone the repository and make sure you have python and all the necessary packages installed (python will point out which ones you don't have installed when you run the notebook). Then go ahead and click run!
+To run this Python notebook:
+1. Clone the repository 
+2. Install Python and Pip
+3. Click Run! (There will likely be missing packages, in which case you can run `pip install <package_name>`)
